@@ -1,0 +1,120 @@
+
+.imagenesINAMU{
+    display: grid;
+    grid-template-columns: 450px 10px;
+}
+.logo{
+    height: 85px;
+}
+.Ruta{
+    height: 48px;
+   margin-top: 30px;
+}
+
+.botonb{
+    margin-left: 850px;
+}
+
+.lupa{
+    margin-left: 1025px;
+    margin-bottom: 350px;
+}
+
+.logos{
+
+    display: grid;
+    grid-template-columns: 50px 50px 50px 50px 50px 50px;
+    margin-top: 50px;
+    gap: 10px;
+    margin-right: 70px;
+    justify-content: center;
+    
+}
+
+.textos{
+    font-size: 8px;
+    display: grid;
+    grid-template-columns: 100px 235px 100px 160px 125px 120px;
+    margin-left: 380px;
+    color: rgb(124, 124, 124);
+}
+.enlaceI{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+
+.centro{
+    text-align: center;
+    color: rgb(0, 126, 168);
+    font-size: x-large;
+}
+.textosback{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    display: grid;
+    grid-template-columns: 100px 150px 155px 170px 155px 162px 252px 50px
+    
+
+}
+.textosback{
+    background-color: rgb(21, 128, 155);
+    color: white;
+}
+.subcolumnas{
+    display: grid;
+    grid-template-columns: 200px 300px 360px;
+}
+.mover{
+    margin-left: 90px;
+    color: rgb(0, 126, 168);
+    font-size: 25px;
+}
+.mover2{
+    margin-left: 100px;
+    font-size: 45px;
+    color: rgb(0, 126, 168);
+}
+.subcolumnas{
+    margin-left: 115px;
+    color: rgb(0, 126, 168);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.color{
+    color: black;
+}
+.tituloH{
+    margin-left: 100px;
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.conceptoH{
+    margin-left: 100px;
+    font-size: 15px;
+    font-family: sans-serif;
+    color: rgb(124, 124, 124);
+}
+.footer{
+    display: grid;
+    grid-template-columns: 550px 350px 460px;
+}
+.textINAMU{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 110px;
+}
+.cc{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.colores{
+    background-color: whitesmoke;
+}
+.logos02{
+
+    display: grid;
+    grid-template-columns: 50px 50px 50px 50px 50px 50px;
+    margin-top: 100px;
+    gap: 5px;
+    margin-right: 250px;
+    justify-content: center;
+}
